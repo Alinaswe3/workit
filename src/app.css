@@ -1,3 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@600&family=Manrope&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+
+    html {
+        font-size: 62.5%; /* Make 1rem = 10px */
+    }
+
+    html,
+    body {
+        /* Ensure that html and body occupy full height and width of viewport */
+        height: 100%;
+        width: 100%;
+        overflow-x: hidden; /* Hides any content that exceed viewport dimension - no scrolling */
+    }
+
+    h1, h2, h3 {
+        font-family: 'Fraunces', serif;
+        line-height: 8rem;
+        font-weight: 600;
+    }
+
+    p {
+        font-family: 'Manrope', sans-serif;
+        line-height: 3.2rem;
+        font-weight: 400;
+    }
+
+}
