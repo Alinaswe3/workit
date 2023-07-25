@@ -22,5 +22,5 @@
             </Feature>
         </div>
     </Container>
-    <BottomCurve />
+    <BottomCurve fillColor="shape-fill-white" />
 </section>

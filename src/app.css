@@ -54,6 +54,10 @@
     }
 
     .bottom-curve .shape-fill {
-        @apply fill-ghost-white
+        @apply fill-ghost-white;
+    }
+
+    .bottom-curve .shape-fill-white {
+        @apply fill-white;
     }
 }
