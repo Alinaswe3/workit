@@ -1,12 +1,12 @@
 <script>
     import Container from "$lib/components/Container.svelte";
     import Feature from "$lib/components/Feature.svelte";
+    import BottomCurve from "$lib/components/BottomCurve.svelte";
 </script>
 
-<section class="mt-96">
+<section class="relative py-96 bg-ghost-white">
     <Container>
         <div class="grid grid-cols-3 gap-10">
-
             <Feature heading="Actionable insights">
                 Optimize your products, improve customer satisfaction and stay ahead of the competition with our product
                 data analytics.
@@ -22,4 +22,5 @@
             </Feature>
         </div>
     </Container>
+    <BottomCurve />
 </section>
