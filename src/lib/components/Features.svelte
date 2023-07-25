@@ -3,7 +3,7 @@
     import Feature from "$lib/components/Feature.svelte";
 </script>
 
-<section>
+<section class="mt-96">
     <Container>
         <div class="grid grid-cols-3 gap-10">
 
