@@ -18,6 +18,10 @@
         overflow-x: hidden; /* Hides any content that exceed viewport dimension - no scrolling */
     }
 
+    body {
+        font-family: 'Manrope', sans-serif;
+    }
+
     h1, h2, h3 {
         font-family: 'Fraunces', serif;
         line-height: 8rem;
@@ -25,7 +29,6 @@
     }
 
     p {
-        font-family: 'Manrope', sans-serif;
         line-height: 3.2rem;
         font-weight: 400;
     }
