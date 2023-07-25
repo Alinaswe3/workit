@@ -8,7 +8,7 @@
         <h3 class="text-[2.4rem]">{number}</h3>
     </div>
     <div>
-        <h2 class="text-[3.2rem]">{heading}</h2>
+        <h2 class="text-h-sm">{heading}</h2>
         <p class="text-[1.8rem]">
             <slot/>
         </p>
