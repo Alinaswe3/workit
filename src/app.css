@@ -60,4 +60,8 @@
     .bottom-curve .shape-fill-white {
         @apply fill-white;
     }
+
+    .btn {
+        @apply tracking-wide transition-colors duration-300 hover:bg-dark-purple hover:text-eucaplyptus bg-eucaplyptus px-8 py-5 text-dark-purple font-bold text-[1.6rem] border-2 border-eucaplyptus;
+    }
 }
