@@ -8,10 +8,10 @@
     <Container cssClasses="relative grid grid-rows-[max-content_1fr]">
         <NavBar/>
         <div class="text-white flex flex-col items-center gap-16 justify-self-center self-center -translate-y-1/4">
-            <h1 class="sm:text-[7rem] text-h-lg text-center">Data <span class="underline underline-offset-8 decoration-eucaplyptus">tailored</span> to<br/> your needs.</h1>
+            <h1 class="xs:text-[5rem] xs:leading-[6.5rem] sm:text-[7rem] text-h-lg text-center">Data <span class="underline underline-offset-8 decoration-eucaplyptus">tailored</span> to<br/> your needs.</h1>
             <button class="btn">Learn more</button>
         </div>
-        <img class="absolute max-w-[60rem] lg:max-w-[50rem] left-1/2 -translate-x-1/2 -bottom-[16rem] lg:-bottom-[12rem] z-10" src="/image-hero.webp" alt="Phone showing how app works"/>
+        <img class="absolute max-w-[60rem] lg:max-w-[50rem] xs:max-w-[40rem] left-1/2 -translate-x-1/2 -bottom-[16rem] lg:-bottom-[12rem] z-10" src="/image-hero.webp" alt="Phone showing how app works"/>
     </Container>
     <img class="absolute md:hidden top-1/4 -left-[13rem] lg:-left-[25rem]" src="/bg-pattern-1.svg" alt="Decoration coils"/>
     <img class="absolute md:hidden top-1/3 -right-[5.5rem] lg:-right-[12rem]" src="/bg-pattern-2.svg" alt="Decoration coils"/>
