@@ -3,20 +3,13 @@ export default {
   content: ["./src/**/*.{html,js,svelte,ts}"],
   theme: {
     screens: {
-      "2xl": { max: "1535px" },
-      // => @media (max-width: 1535px) { ... }
-
-      xl: { max: "1279px" },
-      // => @media (max-width: 1279px) { ... }
-
       lg: { max: "57em" },
-      // => @media (max-width: 1023px) { ... }
 
       md: { max: "47em" },
-      // => @media (max-width: 767px) { ... }
 
       sm: { max: "34em" },
-      // => @media (max-width: 639px) { ... }
+
+      xs: { max: "28em" },
     },
     extend: {
       colors: {
