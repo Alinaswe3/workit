@@ -12,7 +12,7 @@ export default {
       lg: { max: "57em" },
       // => @media (max-width: 1023px) { ... }
 
-      md: { max: "767px" },
+      md: { max: "47em" },
       // => @media (max-width: 767px) { ... }
 
       sm: { max: "639px" },
