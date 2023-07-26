@@ -17,6 +17,13 @@
 
     }
 
+    @media (max-width: 34em) {
+        html {
+            font-size: 45%;
+        }
+
+    }
+
     html,
     body {
         /* Ensure that html and body occupy full height and width of viewport */
