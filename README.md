@@ -1,58 +1,60 @@
-# create-svelte
+# Frontend Mentor - Workit landing page solution
 
-Everything you need to build a Svelte library, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Read more about creating a library [in the docs](https://kit.svelte.dev/docs/packaging).
+## Table of contents
 
-## Creating a project
+- [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Links](#links)
+- [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+- [Author](#author)
 
-If you're seeing this, you've probably already done this step. Congrats!
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Overview
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+### The challenge
 
-## Developing
+Users should be able to:
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
 
-```bash
-npm run dev
+### Links
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-Everything inside `src/lib` is part of your library, everything inside `src/routes` can be used as a showcase or preview app.
+## My process
 
-## Building
+### Built with
 
-To build your library:
+- HTML
+- Tailwind CSS
+- SvelteKit
+- Typescript
+- Desktop-first workflow
 
-```bash
-npm run package
-```
+### What I learned
 
-To create a production version of your showcase app:
+I learned how to use svelte for the first time and also how to divide sections on web page with cool divisions like curves.
 
-```bash
-npm run build
-```
+### Continued development
 
-You can preview the production build with `npm run preview`.
+I really want to focus on improving my CSS in order to write more responsive CSS. Also, I want to improve upon my Svelte skills in order to shift away from React js
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+### Useful resources
 
-## Publishing
+- [Shape divider app](https://www.shapedivider.app/) - This helped me for dividing sections with cool effects
 
-Go into the `package.json` and give your package the desired name through the `"name"` option. Also consider adding a `"license"` field and point it to a `LICENSE` file which you can create from a template (one popular option is the [MIT license](https://opensource.org/license/mit/)).
+## Author
 
-To publish your library to [npm](https://www.npmjs.com):
+- Website - [Alinaswe Chilyabanyama](https://www.alinaswecodes.com)
+- Frontend Mentor - [@Alinaswe3](https://www.frontendmentor.io/profile/Alinaswe3)
+- Twitter - [@AChilyabanyama](https://www.twitter.com/yourusername)
 
-```bash
-npm publish
-```

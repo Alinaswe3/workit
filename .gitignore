@@ -3,7 +3,7 @@ node_modules
 /build
 /dist
 /.svelte-kit
-/.idea
+.idea
 /package
 .env
 .env.*
