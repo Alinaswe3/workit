@@ -8,7 +8,7 @@
 <footer class="mb-20">
     <Container cssClasses="flex justify-center items-center">
         <div class="flex flex-col items-center gap-16">
-            <img class="max-w-[10rem]" src="/logo-dark.svg" alt="Dark version of company logo"/>
+            <img class="w-[10rem]" src="/logo-dark.svg" alt="Dark version of company logo"/>
             <div class="flex gap-16 items-center">
                 <a href="/">
 
