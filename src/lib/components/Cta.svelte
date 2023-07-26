@@ -14,7 +14,7 @@
         <button class="btn">
             Apply for access
         </button>
-        <img class="right-[12%] -bottom-[18%] lg:-bottom-[30%] absolute" src="/bg-pattern-3.svg" alt="Decoration coils"/>
+        <img class="right-[12%] md:hidden -bottom-[18%] lg:-bottom-[30%] absolute" src="/bg-pattern-3.svg" alt="Decoration coils"/>
     </div>
     </Container>
 </section>

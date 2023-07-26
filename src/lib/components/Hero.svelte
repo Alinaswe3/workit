@@ -13,7 +13,7 @@
         </div>
         <img class="absolute max-w-[60rem] lg:max-w-[50rem] left-1/2 -translate-x-1/2 -bottom-[16rem] lg:-bottom-[12rem] z-10" src="/image-hero.webp" alt="Phone showing how app works"/>
     </Container>
-    <img class="absolute top-1/4 -left-[13rem] lg:-left-[25rem]" src="/bg-pattern-1.svg" alt="Decoration coils"/>
-    <img class="absolute top-1/3 -right-[5.5rem] lg:-right-[12rem]" src="/bg-pattern-2.svg" alt="Decoration coils"/>
+    <img class="absolute md:hidden top-1/4 -left-[13rem] lg:-left-[25rem]" src="/bg-pattern-1.svg" alt="Decoration coils"/>
+    <img class="absolute md:hidden top-1/3 -right-[5.5rem] lg:-right-[12rem]" src="/bg-pattern-2.svg" alt="Decoration coils"/>
     <BottomCurve/>
 </section>
