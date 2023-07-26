@@ -2,7 +2,7 @@
     import Container from "$lib/components/Container.svelte";
 </script>
 
-<section class="pt-[33rem] pb-[12rem]">
+<section class="pt-[33rem] pb-[12rem] mr-8 ml-32">
     <Container>
     <div class="ml-auto max-w-[75%] flex flex-col items-start gap-10 relative bg-dark-purple text-white p-[6.4rem]">
         <div class="-z-10 -left-[42%] -top-[53%] absolute bg-yellow-500 min-w-[28rem] min-h-[28rem] w-[42rem] h-[42rem] overflow-hidden rounded-full">

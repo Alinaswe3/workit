@@ -10,6 +10,13 @@
         font-size: 62.5%; /* Make 1rem = 10px */
     }
 
+    @media (max-width: 78em) {
+        html {
+            font-size: 50%; /* Make 1rem = 8px */
+        }
+
+    }
+
     html,
     body {
         /* Ensure that html and body occupy full height and width of viewport */
