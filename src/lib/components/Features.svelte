@@ -6,7 +6,7 @@
 
 <section class="relative py-96 bg-ghost-white">
     <Container>
-        <div class="grid grid-cols-3 gap-10">
+        <div class="grid grid-cols-3 gap-10 lg:grid-cols-1 lg:justify-items-center">
             <Feature heading="Actionable insights">
                 Optimize your products, improve customer satisfaction and stay ahead of the competition with our product
                 data analytics.
